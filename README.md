@@ -40,13 +40,12 @@ git config user.email
 git config user.name
 
 ## Inicializando Diretório
-
 git init
-Verificando Status dos Arquivos
 
+## Verificando Status dos Arquivos
 git status
-Adicionando arquivos
 
+## Adicionando arquivos
 git add index.html
 
 git add .
