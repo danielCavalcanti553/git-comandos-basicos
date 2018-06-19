@@ -103,5 +103,27 @@ git remote rm origin
  ### Criando um Branch
  git checkout -b testing
 
-
- ##
+ ### Visualizando Branch
+ git branch (Precisa ter efetuado commit)
+ 
+ ### Alterando Branch
+ git checkout nome-do-branch
+ 
+ Ex.: git checkout master
+ 
+ Ex.: git checkout testing
+ 
+ 
+ ### Deletando Branch
+ git branch -D nome-do-branch
+ Ex.: git branch -D testing
+ 
+ 
+ ### Unindo Branch com MERGE (Cria um novo commit para unir)
+ git merge nome-do-branch
+ Ex.: git merge testing
+ 
+ 
+ 
+ 
+ 
