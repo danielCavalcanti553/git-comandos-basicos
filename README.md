@@ -104,9 +104,11 @@ git remote rm origin
  git checkout -b testing
 
  ### Visualizando Branch
+ 
  git branch (Precisa ter efetuado commit)
  
  ### Alterando Branch
+ 
  git checkout nome-do-branch
  
  Ex.: git checkout master
