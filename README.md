@@ -126,6 +126,9 @@ git remote rm origin
  Ex.: git merge testing
  
  
+ ### Sincronizar com o servidor
+ git fetch origin
+ git merge origin/master
  
  
  
